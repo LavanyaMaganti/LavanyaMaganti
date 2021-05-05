@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I work as Software Engineer at Apple Inc.
 
 <!--
 **LavanyaMaganti/LavanyaMaganti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
